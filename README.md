@@ -18,12 +18,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](images/screenshot.jpg)
+![screenshot](images/screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-using-html-and-css-diHrN6RBG9)
-- Live Site URL: [Add live site URL here](https://scanqr519.netlify.app/)
+- Solution URL: [Click to find my solution on Frontend mentor](https://www.frontendmentor.io/solutions/qr-code-using-html-and-css-diHrN6RBG9)
+- Live Site URL: [go to website](https://scanqr519.netlify.app/)
 
 ## My process
 
