@@ -1,0 +1,43 @@
+body{
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+}
+.qr-code_container{
+    width: 90%;
+    height: 500px;
+    background-color: rgb(188, 247, 247);
+    margin: 7rem 4rem;
+    display: flex;
+}
+.qr-code_section{
+    width: 240px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    border-radius: 15px;
+}
+.qr-code{
+    background-image: url(images/image-qr-code.png);
+    width: 200px;
+    height: 200px;
+    margin: 10px 19px;
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius: 10px;
+}
+.qr-text{
+    text-align: center;
+    padding: 12px;
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+}
+#text-1{
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+}
+#text-2{
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;  
+}
